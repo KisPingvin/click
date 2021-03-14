@@ -7,6 +7,11 @@ p
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+div
+{
+    padding-top: 100px;
+}
+
 button
 {
     text-align: center;
@@ -21,6 +26,7 @@ button
     outline: none;
     display:block;
     align-content: center;
+    background-color: darkcyan;
 }
 
 body

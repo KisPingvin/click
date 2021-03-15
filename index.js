@@ -85,5 +85,60 @@ function bruh()
         document.getElementById("vilag").innerHTML += "<br> final boss.. kind of 👀";
         document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=5RIcPBBCpzY'>here</a>";
     }
+    else if(elet == 2362)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🎁";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=MEMS2aLBjAE&list=PLMBYlcH3smRyW60cMdlIN-xIe8PR18dz8&index=29'>here</a>";
+    }
+    else if(elet == 3834)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 👓";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=wgkg1K2AGJw'>here</a>";
+    }
+    else if(elet == 4215)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🎨";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=N5gyQjw_D5k'>here</a>";
+    }
+    else if(elet == 5524)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🐱‍🐉";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=PXgcRo4hPMQ&t=170s'>here</a>";
+    }
+    else if(elet == 6783)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🌏";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=1Ce27XkCALU'>here</a>";
+    }
+    else if(elet == 7810)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 1️⃣";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=orAKL28Wr14'>here</a>";
+    }
+    else if(elet == 8730)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 2️⃣";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=lB-Tuys1YbY&t=2s'>here</a>";
+    }
+    else if(elet == 9570)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🐠";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=JKy-Eysl0vQ'>here</a>";
+    }
+    else if(elet == 10743)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 📚";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=gwWNlaF-PLE'>here</a>";
+    }
+    else if(elet == 11746)
+    {
+        document.getElementById("vilag").innerHTML += "<br> ✨";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=iLfT4eHqwK0'>here</a>";
+    }
+    else if(elet == 12746)
+    {
+        document.getElementById("vilag").innerHTML += "<br> 🌒";
+        document.getElementById("vilag").innerHTML += "<br><a href='https://www.youtube.com/watch?v=YQDs6FcGnMQ&t=157s'>here</a>";
+    }
 
 }
